@@ -27,3 +27,10 @@ fruits = ["Apfel", "Banane", "Kirsche", "Feige"]
 
 for i in range(TODO):
     print(TODO)
+
+
+# Aufgabe 5: Erkläre folgenden Code:
+s = 'Python'
+print(len(s))
+for i in range(len(s)):
+   print(i, s[i])
