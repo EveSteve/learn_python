@@ -34,3 +34,17 @@ s = 'Python'
 print(len(s))
 for i in range(len(s)):
    print(i, s[i])
+
+
+# Aufgabe 6: Lese eine Zahl ein und drucke eine Multiplikationstabelle für diese Zahl aus. Z.B:
+# Gebe eine Zahl ein: 5
+# 1 * 5 = 5
+# 2 * 5 = 10
+# 3 * 5 = 15
+# 4 * 5 = 20
+# 5 * 5 = 25
+# 6 * 5 = 30
+# 7 * 5 = 35
+# 8 * 5 = 40
+# 9 * 5 = 45
+# 10 * 5 = 50
